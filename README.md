@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=GaganaB.GaganaB)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganaB&theme=github_dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GaganaB&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=GaganaB&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
