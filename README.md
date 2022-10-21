@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganaB&theme=github_dark)
 
+<img src="https://github-readme-stats.vercel.app/api?username=GaganaB&show_icons=true&count_private=true" alt="GaganaB" />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=GaganaB&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=GaganaB&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
