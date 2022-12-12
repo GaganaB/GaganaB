@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GaganaB.GaganaB)
 
+I am Gagana! 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganaB&theme=github_dark)
 
 <img src="https://github-readme-stats.vercel.app/api?username=GaganaB&show_icons=true&count_private=true" alt="GaganaB" />
