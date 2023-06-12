@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=GaganaB.GaganaB)
-
 I am Gagana! 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaganaB&theme=github_dark)
